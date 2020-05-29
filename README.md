@@ -2,8 +2,8 @@
 Bakalárska práca
 
 # Obsah:
-Obrázková dokumentácia zobrazujúca konštrukciu závislého šva pred a po implemenovaní softvérových modulov
-Úvodná kompletná analýza dát
+- *Obrázková dokumentácia zobrazujúca konštrukciu závislého šva pred a po implemenovaní softvérových modulov
+- *Úvodná kompletná analýza dát
 
 ## Author:
 - *František Tomana*
