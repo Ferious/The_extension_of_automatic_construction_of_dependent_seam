@@ -1,2 +1,15 @@
-# The_extension_of_automatic_construction_of_dependent_seam
-Bachelor thesis
+# Rozšírenie automatickej konštrukcie závislého šva
+Bakalárska práca
+
+# Obsah:
+Obrázková dokumentácia zobrazujúca konštrukciu závislého šva pred a po implemenovaní softvérových modulov
+Úvodná kompletná analýza dát
+
+## Author:
+- *František Tomana*
+
+### Úloha: 
+- *Navrhnú a implementovať softvérové moduly*
+
+### Programovací jazyk: 
+- *Java*
