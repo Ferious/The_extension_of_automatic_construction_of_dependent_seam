@@ -1,0 +1,2 @@
+# The_extension_of_automatic_construction_of_dependent_seam
+Bachelor thesis
